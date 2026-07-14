@@ -70,13 +70,12 @@ Probing screenshots and results are provided in the `Probing` folder (e.g., `scr
 If you use XLLM in your work, please cite our paper:
 
 ```
-@misc{yu2025mindinconspicuousrevealinghidden,
-      title={Mind the Inconspicuous: Revealing the Hidden Weakness in Aligned LLMs' Refusal Boundaries}, 
-      author={Jiahao Yu and Haozheng Luo and Jerry Yao-Chieh Hu and Wenbo Guo and Han Liu and Xinyu Xing},
-      year={2025},
-      eprint={2405.20653},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
+@inproceedings{yu2025mind,
+  title={Mind the Inconspicuous: Revealing the Hidden Weakness in Aligned $\{$LLMs$\}$'Refusal Boundaries},
+  author={Yu, Jiahao and Luo, Haozheng and Hu, Jerry Yao-Chieh and Chen, Yan and Guo, Wenbo and Liu, Han and Xing, Xinyu},
+  booktitle={34th USENIX Security Symposium (USENIX Security 25)},
+  pages={259--278},
+  year={2025}
 }
 ```
 
